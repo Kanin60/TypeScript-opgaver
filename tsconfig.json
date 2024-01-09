@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "preserveConstEnums": true,
+        "strict": true,
+        "target": "ES6",
+        "outDir": "./built",
+        "rootDir": "./src/"
+    },
+    "compileOnSave": true,
+}
