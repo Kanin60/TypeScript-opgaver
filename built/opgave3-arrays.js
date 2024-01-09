@@ -5,4 +5,5 @@ hvor du selv bestemmer hvilke type variabler der skal indgå. */
 let stringArray = ["Her", "er", "et", "array", "som", "indeholder", "strings"];
 //NUMBERS
 let numberArray = [1, 2, 3, 4, 5];
+//MIXED
 let mixedArray = ["stringOne", 1, "stringTwo", 2];

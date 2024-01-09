@@ -8,4 +8,5 @@ let stringArray: string[] = ["Her", "er", "et", "array", "som", "indeholder", "s
 //NUMBERS
 let numberArray: number[] = [ 1, 2, 3, 4, 5]
 
+//MIXED
 let mixedArray: Array<string | number> = ["stringOne", 1, "stringTwo", 2]

@@ -1,9 +1,9 @@
 //lav et objekt med Fornavn, Efternavn, Alder, Øjenfarve, Hårfarve, Højde
 
 
-let person: { 
+let Person: { 
     firstName: 'Mickey', 
-    LastName: 'Mouse', 
+    lastName: 'Mouse', 
     age: 93, 
     eyecolor: 'black', 
     hairColor: 'black', 
